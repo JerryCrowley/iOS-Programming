@@ -1,7 +1,5 @@
-iOS-Programming
-===============
-
-iOS Programming Spring 2014
+#iOS-Programming
+###Please find my assignments for CSCI-UA.0480-002  - iOS Programming Spring 2014
 
 iOS HW1:
     Using Objective C, create a mutable dictionary containing a website as
